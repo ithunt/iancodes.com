@@ -14,6 +14,14 @@ body {
   text-align: left;
 }
 
+.vert-text-right {
+    padding: 0 0 15px 15px;
+    color: #ffffff;
+    display: table-cell;
+    vertical-align: bottom;
+    text-align: right;
+}
+
 .vert-text h1 {
   padding: 0;
   margin: 0;
